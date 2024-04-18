@@ -57,6 +57,12 @@ This will execute the data preprocessing, model training, and evaluation steps, 
 
 ## Model Insights and Recommendations
 
+### ROC Curves
+![Alt text](/Users/tafy/Downloads/roc.png "Logistic Regression")
+![Alt text](/Users/tafy/Downloads/roc2.png "Random Forest")
+![Alt text](/Users/tafy/Downloads/roc3.png "Gradient Boosting Machine")
+
+
 ### Key Findings
 
 - More frequent customer service calls are associated with higher churn rates, indicating potential issues with service quality.
