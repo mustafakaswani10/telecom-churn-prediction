@@ -71,10 +71,14 @@ This will execute the data preprocessing, model training, and evaluation steps, 
 
 ## Appendix
 
-### ROC Curves
-![Alt text](/Users/tafy/Desktop/Python/telecom-churn-prediction/assets/roc.png "Logistic Regression")
-![Alt text](/Users/tafy/Desktop/Python/telecom-churn-prediction/assets/roc2.png "Random Forest")
-![Alt text](/Users/tafy/Desktop/Python/telecom-churn-prediction/assets/roc3.png "Gradient Boosting Machine")
+
+### ROC Curve Visualization
+
+Below are the ROC Curves which demonstrate the performance of the churn prediction models. These graph show the trade-off between the true positive rate and false positive rate for the different thresholds of a classification model.
+
+![ROC Curve](assets/roc.png "Logistic Regression ROC Curve for Churn Prediction Models")
+![ROC Curve](assets/roc2.png "Random Forest ROC Curve for Churn Prediction Models")
+![ROC Curve](assets/roc3.png "Gradient Boosting Machine ROC Curve for Churn Prediction Models")
 
 ## License
 
