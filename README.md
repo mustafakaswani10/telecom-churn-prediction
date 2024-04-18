@@ -57,12 +57,6 @@ This will execute the data preprocessing, model training, and evaluation steps, 
 
 ## Model Insights and Recommendations
 
-### ROC Curves
-![Alt text](/Users/tafy/Downloads/roc.png "Logistic Regression")
-![Alt text](/Users/tafy/Downloads/roc2.png "Random Forest")
-![Alt text](/Users/tafy/Downloads/roc3.png "Gradient Boosting Machine")
-
-
 ### Key Findings
 
 - More frequent customer service calls are associated with higher churn rates, indicating potential issues with service quality.
@@ -74,6 +68,13 @@ This will execute the data preprocessing, model training, and evaluation steps, 
 - **Optimize Pricing**: Review and adjust the pricing plans to ensure competitiveness.
 - **Promote Data Plans**: Introduce attractive data plans for high data users and promote them actively to the relevant customer segments.
 - **Engage Customers**: Increase customer engagement through regular communication and personalized offers based on the customer's usage patterns.
+
+## Appendix
+
+### ROC Curves
+![Alt text](/Users/tafy/Desktop/Python/telecom-churn-prediction/assets/roc.png "Logistic Regression")
+![Alt text](/Users/tafy/Desktop/Python/telecom-churn-prediction/assets/roc2.png "Random Forest")
+![Alt text](/Users/tafy/Desktop/Python/telecom-churn-prediction/assets/roc3.png "Gradient Boosting Machine")
 
 ## License
 
