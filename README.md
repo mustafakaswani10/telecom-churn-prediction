@@ -65,8 +65,7 @@ This will execute the data preprocessing, model training, and evaluation steps, 
 
 ### Recommendations
 
-- **Improve Customer Service**: Enhance the quality and responsiveness of customer support to address issues proactively.
-- **Optimize Pricing**: Review and adjust the pricing plans to ensure competitiveness and fairness.
+- **Optimize Pricing**: Review and adjust the pricing plans to ensure competitiveness.
 - **Promote Data Plans**: Introduce attractive data plans for high data users and promote them actively to the relevant customer segments.
 - **Engage Customers**: Increase customer engagement through regular communication and personalized offers based on the customer's usage patterns.
 
